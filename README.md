@@ -1,5 +1,7 @@
 # 🚀 EDL Starter - Code de Démarrage
 
+[![CI Pipeline](https://github.com/michel-r-cyber/edl-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/michel-r-cyber/edl-starter/actions/workflows/ci.yml)
+
 Bienvenue dans le code de démarrage pour les ateliers d'Environnement de Développement Logiciel (EDL) !
 
 ## 📦 Contenu
